@@ -1,0 +1,13 @@
+#content {
+  margin-top: 15rem;
+}
+.input-url-container {
+  width: 40rem;
+}
+.input-url {
+  margin-top: 1rem;
+}
+.icon-input-url {
+  width: 2rem !important;
+  margin-left: 0.6rem;
+}
